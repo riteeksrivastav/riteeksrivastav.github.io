@@ -21,5 +21,14 @@
       <description>I wrote this blog on Medium. Check it out here. This will explain about the how slices are different from arrays in golang and what common mistakes we can do while using them.</description>
     </item>
     
+    <item>
+      <title>A complete journey with Goroutines</title>
+      <link>https://riteeks.github.io/post/goroutines/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/post/goroutines/</guid>
+      <description>This post will expain about the difference about concurrency and parallelism with the internal working and scheduling of goroutines</description>
+    </item>
+    
   </channel>
 </rss>
