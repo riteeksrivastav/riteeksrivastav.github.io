@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://riteeks.github.io/about/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://riteeks.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -105,10 +100,6 @@
   <url>
     <loc>https://riteeks.github.io/tags/tech/</loc>
     <lastmod>2018-04-16T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riteeks.github.io/authors/example-author/</loc>
   </url>
   
   <url>
