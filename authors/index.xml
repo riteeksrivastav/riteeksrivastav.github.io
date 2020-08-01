@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Riteek Srivastav</title>
+    <link>https://riteeks.github.io/authors/</link>
+    <description>Recent content in Authors on Riteek Srivastav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2020 Riteek Srivastav</copyright>
+    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://riteeks.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Riteek</title>
+      <link>https://riteeks.github.io/authors/riteek/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/authors/riteek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Author</title>
+      <link>https://riteeks.github.io/authors/example-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riteeks.github.io/authors/example-author/</guid>
+      <description>Self Introduction Cras ex dui, tristique a libero eget, consectetur semper ligula. Nunc augue arcu, malesuada a nisi et, molestie finibus metus. Sed lacus odio, ultricies a nisl vitae, sollicitudin tempor ipsum. Vivamus quis feugiat arcu. Sed mi nunc, efficitur quis tellus vitae, posuere mattis metus. Phasellus in mattis dui. Nullam blandit, augue non ullamcorper dapibus, lacus dui molestie massa, in iaculis purus lectus eu lectus. Duis hendrerit lacinia tellus, sit amet feugiat dolor placerat id.</description>
+    </item>
+    
+  </channel>
+</rss>

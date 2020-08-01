@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>concurrency on Riteek Srivastav</title>
+    <link>https://riteeks.github.io/tags/concurrency/</link>
+    <description>Recent content in concurrency on Riteek Srivastav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2020 Riteek Srivastav</copyright>
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://riteeks.github.io/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A complete journey with Goroutines</title>
+      <link>https://riteeks.github.io/post/goroutines/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/post/goroutines/</guid>
+      <description>This post will expain about the difference about concurrency and parallelism with the internal working and scheduling of goroutines</description>
+    </item>
+    
+  </channel>
+</rss>

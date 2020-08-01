@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Riteek Srivastav</title>
+    <link>https://riteeks.github.io/tags/</link>
+    <description>Recent content in Tags on Riteek Srivastav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2020 Riteek Srivastav</copyright>
+    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://riteeks.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>array</title>
+      <link>https://riteeks.github.io/tags/array/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/tags/array/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://riteeks.github.io/tags/golang/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://riteeks.github.io/tags/programming/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software engineering</title>
+      <link>https://riteeks.github.io/tags/software-engineering/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yech</title>
+      <link>https://riteeks.github.io/tags/yech/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/tags/yech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>concurrency</title>
+      <link>https://riteeks.github.io/tags/concurrency/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/tags/concurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>goroutines</title>
+      <link>https://riteeks.github.io/tags/goroutines/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/tags/goroutines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parallelism</title>
+      <link>https://riteeks.github.io/tags/parallelism/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/tags/parallelism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://riteeks.github.io/tags/tech/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://riteeks.github.io/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riteeks.github.io/tags/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

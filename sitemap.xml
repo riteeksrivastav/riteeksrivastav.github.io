@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://riteeks.github.io/about/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/tags/array/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/authors/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/categories/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/categories/golang/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/tags/golang/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/post/golang-slice/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/post/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/categories/programming/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/tags/programming/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/authors/riteek/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/tags/software-engineering/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/tags/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/tags/yech/</loc>
+    <lastmod>2019-02-07T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/post/goroutines/</loc>
+    <lastmod>2018-04-16T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/tags/concurrency/</loc>
+    <lastmod>2018-04-16T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/tags/goroutines/</loc>
+    <lastmod>2018-04-16T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/tags/parallelism/</loc>
+    <lastmod>2018-04-16T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/tags/tech/</loc>
+    <lastmod>2018-04-16T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/authors/example-author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riteeks.github.io/series/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riteek on Riteek Srivastav</title>
+    <link>https://riteeks.github.io/authors/riteek/</link>
+    <description>Recent content in Riteek on Riteek Srivastav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2020 Riteek Srivastav</copyright>
+    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://riteeks.github.io/authors/riteek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How slices internally work in golang</title>
+      <link>https://riteeks.github.io/post/golang-slice/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/post/golang-slice/</guid>
+      <description>I wrote this blog on Medium. Check it out here. This will explain about the how slices are different from arrays in golang and what common mistakes we can do while using them.</description>
+    </item>
+    
+  </channel>
+</rss>
