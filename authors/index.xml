@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2020 Riteek Srivastav</copyright>
-    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2020 00:03:35 +0530</lastBuildDate>
     
 	<atom:link href="https://riteeks.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Riteek</title>
       <link>https://riteeks.github.io/authors/riteek/</link>
-      <pubDate>Thu, 07 Feb 2019 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 23 Aug 2020 00:03:35 +0530</pubDate>
       
       <guid>https://riteeks.github.io/authors/riteek/</guid>
       <description>Hello World! I am a Computer Science graduate from Indian Institute of Technology, Jodhpur. I started coding in College, being from a non computer background it took time for me to get my interest into it. But by the end of graduation, I started loving it. I have been writing code in golang, clojure and ruby for last three years.

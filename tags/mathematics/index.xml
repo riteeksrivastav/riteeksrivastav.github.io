@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mathematics on Riteek Srivastav</title>
+    <link>https://riteeks.github.io/tags/mathematics/</link>
+    <description>Recent content in mathematics on Riteek Srivastav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2020 Riteek Srivastav</copyright>
+    <lastBuildDate>Sun, 23 Aug 2020 00:03:35 +0530</lastBuildDate>
+    
+	<atom:link href="https://riteeks.github.io/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Divide by zero</title>
+      <link>https://riteeks.github.io/post/divide_by_zero/</link>
+      <pubDate>Sun, 23 Aug 2020 00:03:35 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/post/divide_by_zero/</guid>
+      <description>What is the meaning of division by 0</description>
+    </item>
+    
+  </channel>
+</rss>

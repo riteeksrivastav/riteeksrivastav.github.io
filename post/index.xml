@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2020 Riteek Srivastav</copyright>
-    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2020 00:03:35 +0530</lastBuildDate>
     
 	<atom:link href="https://riteeks.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Divide by zero</title>
+      <link>https://riteeks.github.io/post/divide_by_zero/</link>
+      <pubDate>Sun, 23 Aug 2020 00:03:35 +0530</pubDate>
+      
+      <guid>https://riteeks.github.io/post/divide_by_zero/</guid>
+      <description>What is the meaning of division by 0</description>
+    </item>
     
     <item>
       <title>How slices internally work in golang</title>
